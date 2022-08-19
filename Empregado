@@ -50,4 +50,34 @@ public class Empregado
     public void setTipo(int tipo){
         this.tipo = tipo
     }
+
+    public void setSalario(double salario)
+    {
+        this.salario = salario;
+    }
+
+    public void getSalario()
+    {
+        return this.salario;
+    }
+
+    public void setComissao(double comissao)
+    {
+        this.comissao= comissao;
+    }
+
+    public void getComissao()
+    {
+        return this.comissao;
+    }
+
+    public void setBonus(double bonus)
+    {
+        this.bonus= bonus;
+    }
+
+    public void getBonus(double bonus)
+    {
+        return this.bonus;
+    }
 }
