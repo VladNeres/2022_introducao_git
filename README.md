@@ -1,4 +1,4 @@
-<h1> Introdução ao Git e codigod utilizados diariamente.</h1>
+<h1> Introdução ao Git.</h1>
 
 <div class="email">
 <h2> Como Configurar login e email do  Git ? </h2>
