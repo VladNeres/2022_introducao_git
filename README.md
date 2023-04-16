@@ -6,7 +6,7 @@
 <strong> Email: </strong> $ git config --global user.email fulanodetal@exemplo.br 
 </div>
 
-<div class="Comandos-Iniciais">
+<div id="Comandos-Iniciais">
  <h2> 2°Comandos para inciar o git e comandos iniciais </h2>
  para iniciar o git , crie uma pasta onde voce irá deixar seu arquivo, documento de texto ou programa, dentro da pasta abra o Git Bash e digite 
  <ol>
@@ -28,7 +28,7 @@
  <li>  git reset Head                   <- esse comando remove todos os arquivos que estão na staging area </li> 
 </ol>
 
-<div class="clonar-um-Repositorio-Remoto">
+<div id="clonar-um-Repositorio-Remoto">
   <h2> 4° COMO Iniciar e clonar um Repositorio Remoto </h2>
 
    Va no GitHub, na pagina inicial clique em Repositorios.
