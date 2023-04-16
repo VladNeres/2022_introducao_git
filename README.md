@@ -40,14 +40,14 @@
     <li>abra o Git Bash</li>
     <li>digite o comando git clone e cole o link que voce copiou.</li>
     <li>Agora voce pode colocar seus arquivos dentro dessa pasta que voce acabou de clonar. </li>
-    <li>siga os passos da <a href="#COMO Iniciar e clonar um Repositorio Remoto">2° seção <a/> -> (Comandos para inciar o git e comandos iniciais).</li>
+    <li>siga os passos da <a href="#Comandos-Iniciais">2° seção <a/> -> (Comandos para inciar o git e comandos iniciais).</li>
   </ol>
 </div>
 
 <div class="5° Como linkar um arquivo local ao remoto">
         <h2> 5° Como linkar um arquivo local ao remoto </h2>
   <ol>  
-    <li>Siga os passos do <a href="#5° Como linkar um arquivo local ao remoto"> item 4° </a> até o passo 3 (COMO Iniciar e clonar um Repositorio Remoto).</li>
+    <li>Siga os passos do <a href="#clonar-um-Repositorio-Remoto"> item 4° </a> até o passo 3 (COMO Iniciar e clonar um Repositorio Remoto).</li>
     <li>Abra a pasta do seu arquivo local e dentro da pasta abra o git bash.</li>
     <li>Digite o comando <strong> $ git remote add origin ColeOLink.</strong>.   
   </ol>
