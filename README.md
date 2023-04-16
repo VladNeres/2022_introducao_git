@@ -40,7 +40,7 @@
     <li>abra o Git Bash</li>
     <li>digite o comando git clone e cole o link que voce copiou.</li>
     <li>Agora voce pode colocar seus arquivos dentro dessa pasta que voce acabou de clonar. </li>
-    <li>siga os passos da <a href="#Comandos-Iniciais">2° seção <a/> -> (Comandos para inciar o git e comandos iniciais).</li>
+    <li>siga os passos da <a href="#Comandos-Iniciais">2° seção <a/> a partir do 2°passo -> (Comandos para inciar o git e comandos iniciais).</li>
   </ol>
 </div>
 
