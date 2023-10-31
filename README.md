@@ -12,7 +12,7 @@
  <ol>
     <li>  <strong>git init   </strong>                         <i> -> esse comando iniciará o git no seu projeto.</i> </li>
     <li>  <strong>git branch -m main </strong>                 <i> -> comando que altera da branch master para main.</i> </li>
-    <li>  <strong>git status -s </strong>              <i>-> esse comando mostra os arquivos que foram adicionados, modificados ou escluidos do seu projeto.</i> </li>
+    <li>  <strong>git status -s </strong>              <i>-> esse comando mostra os arquivos que foram adicionados, modificados ou excluidos do seu projeto.</i> </li>
     <li>  <strong>git add nomeDoArquivo </strong>              <i> -> esse comando é responsável por colocar o seu arquivo no modo "tracked".</i> </li>
     <li> <strong>git add . </strong>                           <i>->esse comando  faz a adicão de todos os arquivos que foram modificados ou inseridos.</i> </li>
     <li> <strong>git commit -m "Mensagem desejada"</strong>    <i>-> esse comando é responsavel por "Salvar" as suas modificaçoes, mas para realmente salva-las envie       para o seu repositorio remoto.</i> </li>
